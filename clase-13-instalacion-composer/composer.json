@@ -1,6 +1,6 @@
 {
-    "name": "marco/clase-13-iniciar-proyecto-composer",
-    "description": "Ejemplo composer",
+    "name": "marco/clase-13-instalacion-composer",
+    "description": "Ejemplo de instalacion de composer",
     "type": "library",
     "require": {
         "nesbot/carbon": "3.x-dev"
