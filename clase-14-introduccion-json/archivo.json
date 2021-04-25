@@ -1,0 +1,9 @@
+{
+    "name": "devitm",
+    "description": "Institucion muy chida y buena onda",
+    "courses": {
+        "advanced": ["PHP", "VUEjs"],
+        "basic": ["JSON", "HTML"]
+    },
+    "example": "Tipos de dato, string, int, boolean, arrays, null"
+}
